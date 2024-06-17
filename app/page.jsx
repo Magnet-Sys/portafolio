@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>YAYI</main>;
+  return <main>Home page</main>;
 }
