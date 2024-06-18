@@ -26,7 +26,7 @@ const Home = () => {
               <Button
                 variant="outline"
                 size="lg"
-                className="uppercase flex items-cenbter gap-2">
+                className="uppercase flex items-center gap-2">
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
               </Button>
